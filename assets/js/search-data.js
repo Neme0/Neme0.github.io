@@ -49,7 +49,7 @@ ninja.data = [{
           description: "Materials for courses you taught. Replace this text with your description.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/Highlights/";
+            window.location.href = "/highlight/";
           },
         },{id: "nav-people",
           title: "people",
@@ -511,18 +511,18 @@ ninja.data = [{
           window.open("https://inspirehep.net/authors/1010907", "_blank");
         },
       },{
-        id: 'social-rss',
-        title: 'RSS Feed',
+        id: 'social-linkedin',
+        title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("/feed.xml", "_blank");
+          window.open("https://www.linkedin.com/in/chinemerem", "_blank");
         },
       },{
         id: 'social-scholar',
         title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
-          window.open("https://scholar.google.com/citations?user=qc6CJjYAAAAJ", "_blank");
+          window.open("https://scholar.google.com/citations?user=wOPr8KQAAAAJ", "_blank");
         },
       },{
         id: 'social-custom_social',
