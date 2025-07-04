@@ -26,6 +26,23 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+<div style="display: flex; align-items: center; justify-content: space-between; height: 90vh; padding: 0 10vw; box-sizing: border-box; margin-bottom: 60px;">
+
+  <!-- Left: Name -->
+  <div style="flex: 1;">
+    <h1 style="font-size: 4em; font-weight: 700; margin: 0;">
+      Chinemerem<br>C. Okezie
+    </h1>
+  </div>
+
+  <!-- Right: Image -->
+  <div style="flex: 1; display: flex; justify-content: center;">
+    <img src="/assets/images/prof_img.jpg"
+         alt="Profile Picture"
+         style="width: 400px; height: 400px; object-fit: cover; border-radius: 50%; box-shadow: 0 0 30px rgba(0,0,0,0.1);">
+  </div>
+
+</div>
 
 Chinemerem is interested in solving complex energy problems. [Google Scholar](https://scholar.google.com/citations?user=wOPr8KQAAAAJ&hl=en).
 
