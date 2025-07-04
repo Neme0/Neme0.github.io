@@ -39,7 +39,7 @@ latest_posts:
   <div style="flex: 1; display: flex; justify-content: center;">
     <img src="/assets/img/prof_img.jpg"
          alt="Profile Picture"
-         style="width: 400px; height: 400px; object-fit: cover; border-radius: 50%; box-shadow: 0 0 30px rgba(0,0,0,0.1);">
+         style="width: 400px; height: 400px; object-fit: cover; border-radius: 0; box-shadow: 0 0 30px rgba(0,0,0,0.1);">
   </div>
 
 </div>
