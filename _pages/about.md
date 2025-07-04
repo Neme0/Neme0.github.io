@@ -29,7 +29,7 @@ latest_posts:
 <div style="display: flex; align-items: center; justify-content: space-between; height: 90vh; padding: 0 10vw; box-sizing: border-box; margin-bottom: 60px;">
 
   <!-- Left: Name -->
-  <div style="flex: 1;">
+  <div style="flex: 1; padding-right: 20px;">
     <h1 style="font-size: 4em; font-weight: 700; margin: 0;">
       Chinemerem<br>C. Okezie
     </h1>
