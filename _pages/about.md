@@ -48,8 +48,10 @@ latest_posts:
 
   <!-- Left column: Affiliation + Bio -->
   <div style="flex: 1; max-width: 400px;">
-    <div style="text-align: center; font-size: 1em; margin-bottom: 20px;">
-      <p> Chinemerem C. Okezie<p>
+    <div style="text-align: left; font-size: 10em; margin-bottom: 20px;">
+      <h1 style="font-size: 2em; font-weight: 700; margin: 0; font-family: cursive; font-style: italic;">
+      Chinemerem C. Okezie
+    </h1>
       <p><a href='https://www.njit.edu/'>Affiliation</a></p>
     </div>
     <div style="font-size: 1.1em; line-height: 1.5;">
@@ -58,7 +60,8 @@ latest_posts:
         You can view the full profile and publications on 
         <a href="https://scholar.google.com/citations?user=wOPr8KQAAAAJ&hl=en">Google Scholar</a>.
       </p>
-      Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically. Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+      <p>Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically. Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+      </p>
     </div>
 
   </div>
