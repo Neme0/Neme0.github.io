@@ -48,13 +48,11 @@ latest_posts:
 
   <!-- Left column: Affiliation + Bio -->
   <div style="flex: 1; max-width: 400px;">
-    <div style="text-align: left; font-size: 10em; margin-bottom: 20px;">
-      <h1 style="font-size: 2em; font-weight: 700; margin: 0; font-family: cursive; font-style: italic;">
-      Chinemerem C. Okezie
-    </h1>
+    <div style="text-align: left; font-size: 2em; margin-bottom: 20px;">
+      <p> Chinemerem C. Okezie<p>
       <p><a href='https://www.njit.edu/'>Affiliation</a></p>
     </div>
-    <div style="font-size: 1.1em; line-height: 1.5;">
+    <div style="text-align: left; font-size: 1.1em; line-height: 1.5;">
       <p>
         Chinemerem is interested in solving complex energy problems. 
         You can view the full profile and publications on 
@@ -70,7 +68,7 @@ latest_posts:
   <div style="flex: 1; display: flex; justify-content: center;">
     <img src="/assets/img/prof_img.jpg"
          alt="Profile Picture"
-         style="width: 400px; height: 400px; object-fit: cover; border-radius: 0; box-shadow: 0 0 30px rgba(0,0,0,0.1);">
+         style="width: 400px; height: 400px; object-fit: cover; border-radius: 0; box-shadow: 0 0 30px rgba(0, 0, 0, 1);">
   </div>
 
 </div>
