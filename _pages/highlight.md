@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Highlights/
+permalink: /highlight/
 title: Highlights
 description: Materials for courses you taught. Replace this text with your description.
 nav: true
