@@ -6,7 +6,7 @@ subtitle: <a href='https://www.njit.edu/'>Affiliations</a>. Address. Contacts. M
 
 profile:
   align: right
-  image: prof_img.jpg
+  #image: prof_img.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
   #  <p>555 your office number</p>
@@ -37,7 +37,7 @@ latest_posts:
 
   <!-- Right: Image -->
   <div style="flex: 1; display: flex; justify-content: center;">
-    <img src="/assets/images/prof_img.jpg"
+    <img src="/assets/img/prof_img.jpg"
          alt="Profile Picture"
          style="width: 400px; height: 400px; object-fit: cover; border-radius: 50%; box-shadow: 0 0 30px rgba(0,0,0,0.1);">
   </div>
