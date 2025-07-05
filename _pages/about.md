@@ -29,8 +29,8 @@ latest_posts:
 <div style="display: flex; align-items: center; justify-content: space-between; height: 90vh; padding: 0 10vw; box-sizing: border-box; margin-bottom: 60px;">
 
   <!-- Left: Name -->
-  <div style="flex: 1; padding-right: 20px;">
-    <h1 style="font-size: 4em; font-weight: 700; margin: -10px; font-family: sans-serif">
+  <div style="flex: 1; padding-right: 80px;">
+    <h1 style="font-size: 4em; font-weight: 700; margin: 0; font-family: cursive">
       Chinemerem<br>C. Okezie
     </h1>
   </div>
@@ -68,7 +68,7 @@ latest_posts:
   <div style="flex: 1; display: flex; justify-content: center;">
     <img src="/assets/img/prof_img.jpg"
          alt="Profile Picture"
-         style="width: 400px; height: 400px; object-fit: cover; border-radius: 0; box-shadow: 0 0 30px rgba(0, 0, 0, 1);">
+         style="width: 400px; height: 400px; object-fit: cover; border-radius: 0; box-shadow: 0 0 30px rgba(0, 0, 0, 0.1);">
   </div>
 
 </div>
