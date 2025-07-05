@@ -48,9 +48,9 @@ latest_posts:
 
   <!-- Left column: Affiliation + Bio -->
   <div style="flex: 1; max-width: 400px;">
-    <div style="text-align: left; font-size: 2em; margin-bottom: 20px;">
-      <p> Chinemerem C. Okezie</p>
-      <p>PhD Candidate, <a href='https://www.njit.edu/'>New Jersey Institute of Technology</a></p>
+    <div style="text-align: left; font-size: 1em; margin-bottom: 20px;">
+      <p style="font-weight:bold; font-size: 2em;"> Chinemerem C. Okezie</p>
+      <p style="font-size: 1.5em;"> PhD Candidate, <a href='https://www.njit.edu/'>New Jersey Institute of Technology</a></p>
     </div>
     <div style="text-align: left; font-size: 1.1em; line-height: 1.5;">
       <p>
