@@ -66,7 +66,7 @@ latest_posts:
 
   <!-- Right column: Image -->
   <div style="flex: 1; display: flex; justify-content: center;">
-    <img src="/assets/img/prof_img2.jpg"
+    <img src="/assets/img/prof_img2.jpeg"
          alt="Profile Picture"
          style="width: 400px; height: 400px; object-fit: cover; border-radius: 0; box-shadow: 0 0 30px rgba(0, 0, 0, 0.1);">
   </div>
