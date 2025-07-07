@@ -198,7 +198,7 @@ ul.task-list input[type="checkbox"] {
   .more-info {
     margin-bottom: 5px;
     margin-top: 5px;
-    font-family: sans-serif;
+    font-family: monospace;
 
     p {
       display: inline-block;
@@ -285,6 +285,7 @@ ul.task-list input[type="checkbox"] {
 
   .navbar-brand {
     color: var(--global-text-color);
+    font-family: "cursive", georgia, sans-serif, serif;
   }
 
   .navbar-nav .nav-item .nav-link {
