@@ -30,7 +30,7 @@ latest_posts:
 
   <!-- Left: Name -->
   <div style="flex: 1; padding-right: 80px;">
-    <h1 style="font-size: 4em; font-weight: 700; margin: 0; font-family: cursive">
+    <h1 style="font-size: 4em; font-weight: 700; margin: 0; font-family: georgia">
       Chinemerem<br>C. Okezie
     </h1>
   </div>
