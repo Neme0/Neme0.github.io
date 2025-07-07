@@ -280,12 +280,13 @@ ul.task-list input[type="checkbox"] {
   a {
     &:hover {
       text-decoration: none;
+      font-family: "cursive", georgia, sans-serif, serif;
     }
   }
 
   .navbar-brand {
     color: var(--global-text-color);
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: "cursive", georgia, sans-serif, serif;
   }
 
   .navbar-nav .nav-item .nav-link {
