@@ -1,7 +1,7 @@
 /*******************************************************************************
  * Styles for the base elements of the theme.
  ******************************************************************************/
-@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap');
+
 // Typography
 
 p,
@@ -1419,6 +1419,7 @@ figure.cover {
   }
 }
 
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap');
 .post-header .post-title {
-  font-family: "Great Vibes", serif, georgia, sans-serif;
+  font-family: "Great Vibes", cursive;
 }
