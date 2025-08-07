@@ -4,15 +4,14 @@
     "label": "PhD Candidate, New Jersey Institute of Technology",
     "image": "",
     "email": "cco@njit.edu",
-    "phone": "(912) 123-4567",
-    "url": "https://Neme0.github.io/Neme/",
-    "summary": "A Scientist in training",
+    "url": "https://Neme0.github.io",
+    "linkedin": "http://www.linkedin.com/in/chinemerem",
+    "summary": "PhD candidate in Civil and Environmental Engineering with over three years of interdisciplinary research experience in subsurface energy systems. Skilled in data analysis, analytical chemistry, geomechanics, fluid-rock interaction, reservoir engineering, and petrophysics. Research projects have focused on carbon capture and storage (CCS), hydrogen storage, serpentinization, geologic hydrogen, and geothermal energy",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "postalCode": "NJ 07102",
+      "city": "Newark",
       "countryCode": "US",
-      "region": "California"
+      "region": "New Jersey"
     },
     "profiles": [
       {
@@ -24,13 +23,23 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
+      "name": "GGES Lab, New Jersey Institute of Technology",
+      "position": "Graduate Research Assistant",
       "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
+      "startDate": "2024-09-01",
+      "endDate": "",
       "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "highlights": ["Geologic Hydrogen, Serpenitinization, Hydrogen Storage"]
+    }
+
+    {
+      "name": "Gulf Coast Carbon Center, University of Texas at Austin",
+      "position": "Graduate Research Assistant",
+      "url": "https://example.com",
+      "startDate": "2022-08-23",
+      "endDate": "2024-08-16",
+      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "highlights": ["Carbon Capture and Storage"]
     }
   ],
   "volunteer": [
@@ -47,15 +56,36 @@
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "New Jersey Institute of Technology, New Jersey, United States",
+      "location": "New Jersey, United States",
+      "url": "https://www.njit.edu/",
+      "area": "Civil and Environmental Engineering",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "startDate": "2024-09-03",
+      "endDate": "",
+      "relevant courses": ["Mechanics of Materials, Rock Mechanics, Deep Underground Engineering and Resources"]
+    }
+
+    {
+      "institution": "The University of Texas at Austin, Texas, United States",
+      "location": "Texas, United States",
+      "url": "https://www.utaustin.edu/",
+      "area": "Energy and Earth Resources, Jackson School of Geosciences",
+      "studyType": "MSc",
+      "startDate": "2022-08-23",
+      "endDate": "2022-08-16",
+      "thesis": "Calibrating Performance Predictions for Large-Scale Injection",
+      "relevant courses": ["Data Analytics and Geostatistics, Machine Learning, Energy Technology & Policy, Python for Geoscience Research"]
+    }
+    {
+      "institution": "Federal University of Technology, Owerri, Nigeria",
+      "location": "Owerri, Nigeria",
+      "url": "https://www.futo.edu.ng/",
+      "area": "Petroleum Engineering",
+      "studyType": "BEng",
+      "startDate": "2013-09-10",
+      "endDate": "2019-05-19",
+      "thesis": "Numerical Simulation of Waterflooding: a case study of the Alpha Field in the Niger Delta",
     }
   ],
   "awards": [

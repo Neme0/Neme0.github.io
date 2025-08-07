@@ -49,16 +49,14 @@ latest_posts:
   <!-- Left column: Affiliation + Bio -->
   <div style="flex: 1; max-width: 400px;">
     <div style="text-align: left; font-size: 1em; margin-bottom: 20px;">
-      <p style="font-weight:bold; font-size: 2em;"> Chinemerem C. Okezie</p>
-      <p style="font-size: 1.5em;"> PhD Candidate, <a href='https://www.njit.edu/'>New Jersey Institute of Technology</a></p>
+      <p style="font-weight:bold; font-size: 2em; font-family: Radley"> Chinemerem C. Okezie</p>
+      <p style="font-size: 1.4em;"> PhD Candidate, <a href='https://www.njit.edu/'>New Jersey Institute of Technology</a></p>
     </div>
     <div style="text-align: left; font-size: 1.1em; line-height: 1.5;">
       <p>
-        Chinemerem is interested in solving complex energy problems. 
+        PhD candidate in Civil and Environmental Engineering with over three years of interdisciplinary research experience in subsurface energy systems. Skilled in data analysis, analytical chemistry, geomechanics, fluid-rock interaction, reservoir engineering, and petrophysics. Research projects have focused on carbon capture and storage (CCS), hydrogen storage, serpentinization, geologic hydrogen, and geothermal energy. Primary interest lies in solving complex energy problems.
         You can view the full profile and publications on 
         <a href="https://scholar.google.com/citations?user=wOPr8KQAAAAJ&hl=en">Google Scholar</a>.
-      </p>
-      <p>Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically. Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
       </p>
     </div>
 
