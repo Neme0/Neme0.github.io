@@ -30,7 +30,7 @@
       "endDate": "",
       "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
       "highlights": ["Geologic Hydrogen, Serpenitinization, Hydrogen Storage"]
-    }
+    },
 
     {
       "name": "Gulf Coast Carbon Center, University of Texas at Austin",
@@ -64,7 +64,7 @@
       "startDate": "2024-09-03",
       "endDate": "",
       "relevant courses": ["Mechanics of Materials, Rock Mechanics, Deep Underground Engineering and Resources"]
-    }
+    },
 
     {
       "institution": "The University of Texas at Austin, Texas, United States",
@@ -76,7 +76,7 @@
       "endDate": "2022-08-16",
       "thesis": "Calibrating Performance Predictions for Large-Scale Injection",
       "relevant courses": ["Data Analytics and Geostatistics, Machine Learning, Energy Technology & Policy, Python for Geoscience Research"]
-    }
+    },
     {
       "institution": "Federal University of Technology, Owerri, Nigeria",
       "location": "Owerri, Nigeria",
@@ -85,7 +85,7 @@
       "studyType": "BEng",
       "startDate": "2013-09-10",
       "endDate": "2019-05-19",
-      "thesis": "Numerical Simulation of Waterflooding: a case study of the Alpha Field in the Niger Delta",
+      "thesis": "Numerical Simulation of Waterflooding: a case study of the Alpha Field in the Niger Delta"
     }
   ],
   "awards": [
