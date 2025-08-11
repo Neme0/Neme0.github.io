@@ -15,46 +15,30 @@
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "GitHub",
+        "username": "Neme0",
+        "url": "https://github.com/Neme0"
       }
     ]
   },
-  "work": [
+    "interests": [
     {
-      "name": "GGES Lab, New Jersey Institute of Technology",
-      "position": "Graduate Research Assistant",
-      "url": "https://example.com",
-      "startDate": "2024-09-01",
-      "endDate": "",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Geologic Hydrogen, Serpenitinization, Hydrogen Storage"]
-    },
-
-    {
-      "name": "Gulf Coast Carbon Center, University of Texas at Austin",
-      "position": "Graduate Research Assistant",
-      "url": "https://example.com",
-      "startDate": "2022-08-23",
-      "endDate": "2024-08-16",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Carbon Capture and Storage"]
+      "name": "Subsurface Energy Systems",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Geologic Hydrogen",
+        "Hydrogen Storage",
+        "Carbon Capture and Storage",
+        "Geothermal Energy",
+        "Geomechanics",
+        "Analytical Chemistry",
+        "Fluid-Rock Interaction",
+        "Petrophysics",
+        "Reservoir Engineering"
+      ]
     }
   ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
-  ],
-  "education": [
+    "education": [
     {
       "institution": "New Jersey Institute of Technology, New Jersey, United States",
       "location": "New Jersey, United States",
@@ -74,7 +58,7 @@
       "studyType": "MSc",
       "startDate": "2022-08-23",
       "endDate": "2022-08-16",
-      "thesis": "Calibrating Performance Predictions for Large-Scale Injection",
+      "thesis": "Calibrating Performance Predictions for Large-Scale Injection - https://doi.org/10.26153/tsw/57870",
       "relevant courses": ["Data Analytics and Geostatistics, Machine Learning, Energy Technology & Policy, Python for Geoscience Research"]
     },
     {
@@ -88,143 +72,280 @@
       "thesis": "Numerical Simulation of Waterflooding: a case study of the Alpha Field in the Niger Delta"
     }
   ],
-  "awards": [
+  "research experience": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "name": "GGES Lab, New Jersey Institute of Technology",
+      "position": "Graduate Research Assistant",
+      "url": "https://www.gges-lab.com/",
+      "startDate": "2024-09-01",
+      "endDate": "",
+      "summary": "My Research focuses on subsurface energy systems, including geologic hydrogen production via serpentinization and hydrogen storage in porous media. Specifically, I investigate the geochemical and geomechanical processes involved in these systems, using a combination of laboratory experiments, numerical modeling, and field data analysis to better understand their behavior and optimize their performance.",
+      "highlights": ["Geologic Hydrogen, Serpenitinization, Hydrogen Storage"]
+    },
+
+    {
+      "name": "Gulf Coast Carbon Center, University of Texas at Austin",
+      "position": "Graduate Research Assistant",
+      "url": "https://gccc.beg.utexas.edu/",
+      "startDate": "2022-08-23",
+      "endDate": "2024-08-16",
+      "summary": "My research focused on mitigating carbon dioxide emissions through carbon capture and storage (CCS). Specifically, I worked with large field datasets from saltwater disposal wells to calibrate the predictions made for large-scale CCS projects in the Texas Gulf Coast. ",
+      "highlights": ["Carbon Capture and Storage"]
     }
   ],
-  "certificates": [
+    "publications": [
     {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
+      "name": "Calibrating Performance Predictions for Large-Scale Injection",
+      "authors": "Chinemerem C. Okezie, Alexander P. Bump, and Susan D. Hovorka",
+      "publisher": "Social Science Research Network (SSRN)",
+      "releaseDate": "2024",
+      "url": "https://doi.org/10.2139/ssrn.5065593"
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
+      "name": "A tale of two geologic systems – comparing the impacts of injection into the Permian Basin to the Gulf of Mexico",
+      "authors": "Susan D. Hovorka, Katie M. Smye, Peter H. Hennings, Alexander P. Bump, Chinemerem C. Okezie, and Angela K. Luciano",
+      "publisher": "Social Science Research Network",
+      "releaseDate": "2024",
+      "url": "https://doi.org/10.2139/ssrn.5064850 "
     }
   ],
-  "publications": [
+   "Presentations": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "title": "Calibrating Performance Predictions for Large-Scale Injection",
+      "event": "University of Texas Institute for Geophysics Discussion Hour",
+      "location": "Austin, Texas, United States",
+      "date": "2024",
+      "url": "https://www.youtube.com/watch?v=2J8SG-Mx2rU]"
     },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
+      "title": "Calibrating Performance Predictions for Large-Scale Injection",
+      "event": "CCUS Conferennce",
+      "location": "Houston, Texas, United States",
+      "date": "2023",
+      "url": "https://ccusevent.org/2024/"
     },
     {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "title": "The Promise of the Lower Cretaceous for CO2 Storage",
+      "event": "AAPG Annual Convention and Exhibition",
+      "location": "Austin, Texas, United States",
+      "date": "2023"
+    },
+    {
+      "title": "Prediction of Carbon Storage Potential using Pressure-Production Data",
+      "event": "Gulf Coast Carbon Center Annual Meeting",
+      "location": "Austin, Texas, United States",
+      "date": "2023",
+      "url": "https://gccc.beg.utexas.edu/files/gccc/research/GoMCarb/2023%20April%20meeting/6_12%20PredictionofCarbonStorage_Okezie%202023-04-06.pdf"
     }
   ],
-  "skills": [
+  "technical skills": [
     {
-      "name": "Physics",
+      "name": "Programming and Data Analysis",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Python (NumPy, Pandas, Seaborn, Scikit-learn, Matplotlib, SciPy, Cartopy, GeoPandas, Pyproj)",
+        "Power BI"
       ]
-    }
-  ],
-  "languages": [
-    {
-      "language": "German",
-      "fluency": "Native speaker",
-      "icon": ""
     },
     {
-      "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
-    }
-  ],
-  "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
+      "name": "Statistical Analysis",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Hypothesis Testing",
+        "Monte-Carlo Simulations",
+        "Bootstrapping"
+      ]
+    },
+    {
+      "name": "Analytical Techniques",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Scanning Electron Microscopy-Energy Dispersive X-ray Spectroscopy (SEM-EDS)",
+        "X-ray Diffraction (XRD)",
+        "Thermogravimetric Analysis (TGA)",
+        "Raman Spectroscopy"
+      ]
+    },
+     {
+      "name": "Laboratory and Experimental Methods",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Triaxial Compression Test",
+        "Uniaxial Compression Test",
+        "Indirect Tensile Test (Brazilian Test)",
+        "Hydrothermal Batch Reactor Experiments",
+        "Hydraulic Fracturing Experiments"
+      ]
+    },
+    {
+      "name": "Geiscience and Visualization Tools",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Petrel",
+        "ArcGIS",
+        "Petra",
+        "Harmony",
+        "Eclipse",
+        "Google Earth Pro"
+      ]
+    },
+    {
+      "name": "Machine Learning and Data Science",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Supervised (Regression, Classification)",
+        "Unsupervised (Clustering)"       
+      ]
+    },
+    {
+      "name": "Modeling and Simulation",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Finite Element Analysis (ANSYS)",
+        "Geochemical Modeling (EQ3/6, PHREEQC)"       
+      ]
+    },
+    {
+      "name": "Documentation and Workflow",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Git/GitHub",
+        "LatTeX",
+        "Microsoft Office Suite"       
       ]
     }
   ],
-  "references": [
+  "selected projects": [
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "name": "AAPG Imperial Barrel Award (IBA) Competition",
+      "summary": "Evaluated the CO2 Storage potential in the Otway Basin, Australia",
+      "highlights": ["Prospect Evaluation", "Well Log Analysis", "3D Seismic mapping","Technical Presentation"],
+      "startDate": "2024",
+      "endDate": "2024",
+      "url": "https://iba.aapg.org/"
     },
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "name": "SPE Student Chapter, University of Texas at Austin",
+      "summary": "Explored the idea of geothermal energy production and lithium extraction from the Salton Sea in California",
+      "highlights": ["Project Development","Financial Modeling", "Risk Assessment", "Technical Presentation"],
+      "startDate": "2024",
+      "endDate": "2024",
+      "url": "https://www.spe.org/en/student-chapters/ut-austin/"
     }
   ],
-  "projects": [
+   "professional experience": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "Verraki",
+      "position": "Executive trainee Consutant",
+      "startDate": "2019",
+      "endDate": "2022",
+      "summary": ""
+    }
+  ],
+  "awards": [
+    {
+      "title": "Fellow, Texas Entrepreneurship Exchange for Energy (TEX-E)",
+      "date": "2023",
+      "awarder": "Texas Entrepreneurship Exchange for Energy",
+      "url": "https://tex-e.org/",
+      "summary": "In partnership with the MIT's Martin Trust Center for Entrepreneurhip, the TEX-E fellowship offers students the opportunity to innovate towards meeting the worlds energy needs while addressing climate challenges.'"
+    },
+    {
+      "title": "Graduate Fellowship, Energy and Earth Resources, University of Texas at Austin",
+      "date": "2022",
+      "awarder": "Energy and Earth Resources Program",
+      "url": "https://www.jsg.utexas.edu/eer/",
+      "summary": "Competitive, merit-based award recognizing outstanding academic achievment."
+    },
+    {
+      "title": "Service Award, Society of Petroleum Engineers (SPE)",
+      "date": "2022",
+      "awarder": "Society of Petroleum Engineers Lagos Section",
+      "url": "https://spelagos.org/home",
+      "summary": "Awarded to the board members for their outstanding service to the organization."
+    },
+    {
+      "title": "Winner, Nigerian Institute of Physics Quiz Competition",
+      "date": "2013",
+      "awarder": "Nigerian Institute of Physics",
+      "url": "https://www.spe.org/en/nigeria/",
+      "summary": "Awarded first place in the national physics quiz competition organized by the Nigerian Institute of Physics."
+    }
+  ],
+    "volunteer": [
+    {
+      "organization": "International Meeting for Applied Geoscience & Energy (IMAGE)",
+      "location": "Houston, Texas, United States",
+      "position": "Session Cordinator, Low-Carbon Solutions",
+      "startDate": "2023-08-29",
+      "endDate": "2023-08-29"
+    }
+  ],
+  "leadership & service roles": [
+    {
+      "name": "Kay Bailey Hutchison Energy Center, University of Texas at Austin",
+      "position": "Student Advisory Council, ",
+      "startDate": "2023",
+      "endDate": "2024"
+    },
+    {
+      "name": "Longhorn Energy Club, University of Texas at Austin",
+      "position": "Vice President of Professional Development & Editorial Council",
+      "startDate": "2022",
+      "endDate": "2024"
+    },
+    {
+      "name": "Society of Petroleum Engineers (SPE), Lagos Section",
+      "position": "Communication & Outreach Chairperson",
+      "startDate": "2021",
+      "endDate": "2022"
+    }
+  ],
+  "professional affiliations": [
+    {
+      "name": "American Association of Petroleum Geologists (AAPG)",
+      "url": "https://www.aapg.org/"
+    },
+    {
+      "name": "Edison Electric Institute (EEI)",
+      "url": "https://www.eei.org/"
+    },
+    {
+      "name": "Solar Energy Industries Association (SEIA)",
+      "url": "https://www.seia.org/"
+    },
+    {
+      "name": "Society of Petroleum Engineers (SPE)",
+      "url": "https://www.spe.org/"
+    },
+    {
+      "name": "SDG 7 Youth Consitutency",
+      "url": "https://www.sdg7youth.org/"
+    }
+  ],
+   "references": [
+    {
+      "name": "Dr. Alex Bump",
+      "icon": "fa-solid fa-laptop",
+      "reference": "https://www.beg.utexas.edu/people/alex-bump"
+    },
+    {
+      "name": "Dr. Oladoyin Kolawole",
+      "icon": "fa-solid fa-thumbtack",
+      "reference": "https://people.njit.edu/profile/ok62"
+    },
+    {
+      "name": "Dr. Susan Hovorka",
+      "icon": "fa-solid fa-globe",
+      "reference": "https://www.beg.utexas.edu/people/susan-hovorka"
     }
   ]
 }
