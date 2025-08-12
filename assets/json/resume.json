@@ -3,10 +3,10 @@
     "name": "Chinemerem Clement Okezie",
     "label": "PhD Candidate, New Jersey Institute of Technology",
     "image": "",
-    "email": "cco@njit.edu",
+    "email": "cco28@njit.edu",
     "url": "https://Neme0.github.io",
     "linkedin": "http://www.linkedin.com/in/chinemerem",
-    "summary": "PhD candidate in Civil and Environmental Engineering with over three years of interdisciplinary research experience in subsurface energy systems. Skilled in data analysis, analytical chemistry, geomechanics, fluid-rock interaction, reservoir engineering, and petrophysics. Research projects have focused on carbon capture and storage (CCS), hydrogen storage, serpentinization, geologic hydrogen, and geothermal energy",
+    "summary": "PhD candidate in Civil and Environmental Engineering with over three years of interdisciplinary research experience in subsurface energy systems. Skilled in data analysis, analytical chemistry, geomechanics, fluid-rock interaction, reservoir engineering, and petrophysics. Research projects have focused on carbon capture and storage (CCS), hydrogen storage, serpentinization, geologic hydrogen, and geothermal energy.",
     "location": {
       "postalCode": "NJ 07102",
       "city": "Newark",
@@ -21,7 +21,7 @@
       }
     ]
   },
-    "interests": [
+  "interests": [
     {
       "name": "Subsurface Energy Systems",
       "icon": "fa-solid fa-tag",
@@ -38,7 +38,7 @@
       ]
     }
   ],
-    "education": [
+  "education": [
     {
       "institution": "New Jersey Institute of Technology, New Jersey, United States",
       "location": "New Jersey, United States",
@@ -93,7 +93,7 @@
       "highlights": ["Carbon Capture and Storage"]
     }
   ],
-    "publications": [
+  "publications": [
     {
       "name": "Calibrating Performance Predictions for Large-Scale Injection",
       "authors": "Chinemerem C. Okezie, Alexander P. Bump, and Susan D. Hovorka",
@@ -109,7 +109,7 @@
       "url": "https://doi.org/10.2139/ssrn.5064850 "
     }
   ],
-   "Presentations": [
+  "presentations": [
     {
       "title": "Calibrating Performance Predictions for Large-Scale Injection",
       "event": "University of Texas Institute for Geophysics Discussion Hour",
@@ -241,7 +241,7 @@
       "url": "https://www.spe.org/en/student-chapters/ut-austin/"
     }
   ],
-   "professional experience": [
+  "professional experience": [
     {
       "name": "Verraki",
       "position": "Executive trainee Consutant",
@@ -280,7 +280,7 @@
       "summary": "Awarded first place in the national physics quiz competition organized by the Nigerian Institute of Physics."
     }
   ],
-    "volunteer": [
+  "volunteer": [
     {
       "organization": "International Meeting for Applied Geoscience & Energy (IMAGE)",
       "location": "Houston, Texas, United States",
