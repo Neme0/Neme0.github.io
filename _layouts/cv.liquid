@@ -95,12 +95,12 @@ layout: default
                   {% include resume/basics.liquid %}
                 {% when 'education' %}
                   {% include resume/education.liquid %}
-                {% when 'work' %}
-                  {% include resume/work.liquid %}
+                {% when 'research experience' %}
+                  {% include resume/research experience.liquid %}
                 {% when 'volunteer' %}
                   {% include resume/volunteer.liquid %}
-                {% when 'projects' %}
-                  {% include resume/projects.liquid %}
+                {% when 'selected projects' %}
+                  {% include resume/selected projects.liquid %}
                 {% when 'awards' %}
                   {% include resume/awards.liquid %}
                 {% when 'technical skills' %}
@@ -116,8 +116,14 @@ layout: default
                 {% when 'references' %}
                   {% include resume/references.liquid %}
                 {% when 'professional experience' %}
-                  {% include resume/references.liquid %}
+                  {% include resume/professional experience.liquid %}
+                {% when 'presentations' %}
+                  {% include resume/presentations.liquid %}
                 {% else %}
+                {% when 'leadership & service roles' %}
+                  {% include resume/leadership & service roles.liquid %}
+                {% when 'professional affiliations' %}
+                  {% include resume/professional affiliations.liquid %}
 
               {% endcase %}
             </div>
