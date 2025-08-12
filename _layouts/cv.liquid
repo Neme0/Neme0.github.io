@@ -103,7 +103,7 @@ layout: default
                   {% include resume/projects.liquid %}
                 {% when 'awards' %}
                   {% include resume/awards.liquid %}
-                {% when 'skills' %}
+                {% when 'technical skills' %}
                   {% include resume/skills.liquid %}
                 {% when 'publications' %}
                   {% include resume/publications.liquid %}
@@ -114,6 +114,8 @@ layout: default
                 {% when 'certificates' %}
                   {% include resume/certificates.liquid %}
                 {% when 'references' %}
+                  {% include resume/references.liquid %}
+                {% when 'professional experience' %}
                   {% include resume/references.liquid %}
                 {% else %}
 
