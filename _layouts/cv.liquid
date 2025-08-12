@@ -111,6 +111,19 @@ layout: default
                   {% include resume/certificates.liquid %}
                 {% when 'references' %}
                   {% include resume/references.liquid %}
+                {% when 'professional experience' %}
+                  {% include resume/professional experience.liquid %}
+                {% when 'presentations' %}
+                  {% include resume/presentations.liquid %}
+                {% else %}
+                {% when 'leadership & service roles' %}
+                  {% include resume/leadership & service roles.liquid %}
+                {% when 'professional affiliations' %}
+                  {% include resume/professional affiliations.liquid %}
+                {% when 'selected projects' %}
+                  {% include resume/selected projects.liquid %}
+                {% when 'technical skills' %}
+                  {% include resume/technical skills.liquid %}
 
               {% endcase %}
             </div>
