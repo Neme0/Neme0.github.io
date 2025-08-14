@@ -1,5 +1,5 @@
 <ul class="card-text font-weight-light list-group list-group-flush">
-  {% assign presentations = site.data.filename.presentations | sort: 'date' | reverse %}
+  {% assign presentations = site.data.content.presentations | sort: 'date' | reverse %}
   {% for content in presentations %}
     <li class="list-group-item">
       <div class="row">
