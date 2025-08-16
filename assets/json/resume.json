@@ -47,7 +47,7 @@
       "studyType": "PhD",
       "startDate": "2024-09-03",
       "endDate": "",
-      "relevant courses": ["Mechanics of Materials, Rock Mechanics, Deep Underground Engineering and Resources"]
+      "courses": ["Mechanics of Materials, Rock Mechanics, Deep Underground Engineering and Resources"]
     },
 
     {
@@ -230,8 +230,7 @@
       "highlights": ["Prospect Evaluation", "Well Log Analysis", "3D Seismic mapping","Technical Presentation"],
       "startDate": "2024",
       "endDate": "2024",
-      "url": "https://iba.aapg.org/",
-      "location": "Austin, Texas, United States"
+      "url": "https://iba.aapg.org/"
     },
     {
       "name": "AES Energy Innovation Challenge",
@@ -239,8 +238,7 @@
       "highlights": ["Project Development","Financial Modeling", "Risk Assessment", "Technical Presentation"],
       "startDate": "2024",
       "endDate": "2024",
-      "url": "https://www.aes.com/aes-energy-innovation-challenge",
-      "location": "Austin, Texas, United States"
+      "url": "https://www.aes.com/aes-energy-innovation-challenge"
     }
   ],
   "professional experience": [
