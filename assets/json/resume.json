@@ -138,88 +138,18 @@
       "url": "https://gccc.beg.utexas.edu/files/gccc/research/GoMCarb/2023%20April%20meeting/6_12%20PredictionofCarbonStorage_Okezie%202023-04-06.pdf"
     }
   ],
-  "technical skills": [
+  "skills": [
     {
-      "name": "Programming and Data Analysis",
+      "name": "Physics",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Python (NumPy, Pandas, Seaborn, Scikit-learn, Matplotlib, SciPy, Cartopy, GeoPandas, Pyproj)",
-        "Power BI"
-      ]
-    },
-    {
-      "name": "Statistical Analysis",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Hypothesis Testing",
-        "Monte-Carlo Simulations",
-        "Bootstrapping"
-      ]
-    },
-    {
-      "name": "Analytical Techniques",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Scanning Electron Microscopy-Energy Dispersive X-ray Spectroscopy (SEM-EDS)",
-        "X-ray Diffraction (XRD)",
-        "Thermogravimetric Analysis (TGA)",
-        "Raman Spectroscopy"
-      ]
-    },
-     {
-      "name": "Laboratory and Experimental Methods",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Triaxial Compression Test",
-        "Uniaxial Compression Test",
-        "Indirect Tensile Test (Brazilian Test)",
-        "Hydrothermal Batch Reactor Experiments",
-        "Hydraulic Fracturing Experiments"
-      ]
-    },
-    {
-      "name": "Geoscience & Visualization Tools",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Petrel",
-        "ArcGIS",
-        "Petra",
-        "Harmony",
-        "Eclipse",
-        "Google Earth Pro"
-      ]
-    },
-    {
-      "name": "Machine Learning and Data Science",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Supervised (Regression, Classification)",
-        "Unsupervised (Clustering)"       
-      ]
-    },
-    {
-      "name": "Modeling and Simulation",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Finite Element Analysis (ANSYS)",
-        "Geochemical Modeling (EQ3/6, PHREEQC)"       
-      ]
-    },
-    {
-      "name": "Documentation and Workflow",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Git/GitHub",
-        "LatTeX",
-        "Microsoft Office Suite"       
+        "Quantum Mechanics",
+        "Quantum Computing",
+        "Quantum Information",
+        "Quantum Cryptography",
+        "Quantum Communication",
+        "Quantum Teleportation"
       ]
     }
   ],
