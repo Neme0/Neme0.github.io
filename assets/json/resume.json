@@ -226,19 +226,21 @@
   "selected projects": [
     {
       "name": "AAPG Imperial Barrel Award (IBA) Competition",
-      "summary": "Evaluated the CO2 Storage potential in the Otway Basin, Australia",
-      "highlights": ["Prospect Evaluation", "Well Log Analysis", "3D Seismic mapping","Technical Presentation"],
+      "url": "https://iba.aapg.org/",
       "startDate": "2024",
       "endDate": "2024",
-      "url": "https://iba.aapg.org/"
+      "summary": "Evaluated the CO2 Storage potential in the Otway Basin, Australia",
+      "highlights": ["Prospect Evaluation", "Well Log Analysis", "3D Seismic mapping","Technical Presentation"]
     },
     {
       "name": "AES Energy Innovation Challenge",
-      "summary": "Explored the idea of geothermal energy production and lithium extraction from the Salton Sea in California",
-      "highlights": ["Project Development","Financial Modeling", "Risk Assessment", "Technical Presentation"],
-      "startDate": "2024",
+      "url": "https://www.aes.com/aes-energy-innovation-challenge",
+       "startDate": "2024",
       "endDate": "2024",
-      "url": "https://www.aes.com/aes-energy-innovation-challenge"
+      "summary": "Explored the idea of geothermal energy production and lithium extraction from the Salton Sea in California",
+      "highlights": ["Project Development","Financial Modeling", "Risk Assessment", "Technical Presentation"]
+     
+      
     }
   ],
   "professional experience": [
