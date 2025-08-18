@@ -225,13 +225,22 @@
   ],
   "selected projects": [
     {
-      "name": "GGES Lab, New Jersey Institute of Technology",
-      "position": "Graduate Research Assistant",
-      "url": "https://www.gges-lab.com/",
-      "startDate": "2024-09-01",
-      "endDate": "",
-      "summary": "My Research focuses on subsurface energy systems, including geologic hydrogen production via serpentinization and hydrogen storage in porous media. Specifically, I investigate the geochemical and geomechanical processes involved in these systems, using a combination of laboratory experiments, numerical modeling, and field data analysis to better understand their behavior and optimize their performance.",
-      "highlights": ["Geologic Hydrogen, Serpenitinization, Hydrogen Storage"]
+      
+      "name": "AAPG Imperial Barrel Award (IBA) Competition",
+      "url": "https://iba.aapg.org/",
+      "startDate": "2024",
+      "endDate": "2024",
+      "summary": "Evaluated the CO2 Storage potential in the Otway Basin, Australia",
+      "highlights": ["Prospect Evaluation", "Well Log Analysis", "3D Seismic mapping","Technical Presentation"]
+    },
+    {
+      "name": "AES Energy Innovation Challenge",
+      "url": "https://www.aes.com/aes-energy-innovation-challenge",
+      "startDate": "2024",
+      "endDate": "2024",
+      "summary": "Explored the idea of geothermal energy production and lithium extraction from the Salton Sea in California",
+      "highlights": ["Project Development","Financial Modeling", "Risk Assessment", "Technical Presentation"]
+     
       
     }
   ],
